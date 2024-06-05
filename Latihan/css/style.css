@@ -1,0 +1,25 @@
+
+body{
+	background-color: aliceblue;
+}
+
+#a{
+	border: 2px solid powderblue;
+	border-radius: 5px;
+}
+
+#b{
+	border: 2px solid tomato;
+}
+
+.c{
+	border: 2px solid skyblue;
+	border-radius: 5px;
+}
+
+table{
+	border: 2px solid tomato;
+	margin-top: 15px;
+	border-radius: 5px;
+}
+
